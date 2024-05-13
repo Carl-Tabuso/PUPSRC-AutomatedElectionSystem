@@ -5,7 +5,6 @@
 </div>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Pull requests][pull-requests-shield]][pull-requests-url]
@@ -228,8 +227,6 @@ You can read more about:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/BSIT-3-1-APPDEV/PUPSRC-AutomatedElectionSystem.svg?style=for-the-badge
 [contributors-url]: https://github.com/BSIT-3-1-APPDEV/PUPSRC-AutomatedElectionSystem/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BSIT-3-1-APPDEV/PUPSRC-AutomatedElectionSystem.svg?style=for-the-badge
-[forks-url]: https://github.com/BSIT-3-1-APPDEV/PUPSRC-AutomatedElectionSystem/network/members
 [stars-shield]: https://img.shields.io/github/stars/BSIT-3-1-APPDEV/PUPSRC-AutomatedElectionSystem.svg?style=for-the-badge
 [stars-url]: https://github.com/BSIT-3-1-APPDEV/PUPSRC-AutomatedElectionSystem/stargazers
 [issues-shield]: https://img.shields.io/github/issues/BSIT-3-1-APPDEV/PUPSRC-AutomatedElectionSystem.svg?style=for-the-badge
